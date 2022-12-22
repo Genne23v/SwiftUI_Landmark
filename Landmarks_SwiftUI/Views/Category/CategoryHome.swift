@@ -1,10 +1,3 @@
-//
-//  CategoryHome.swift
-//  Landmarks_SwiftUI
-//
-//  Created by Wonkeun No on 2022-11-02.
-//
-
 import SwiftUI
 
 struct CategoryHome: View {
